@@ -1,1 +1,1 @@
-Create new directory
+Setting up new repo
