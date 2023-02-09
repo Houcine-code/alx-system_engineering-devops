@@ -1,1 +1,1 @@
-Repository for Shell basics project
+Create new directory
