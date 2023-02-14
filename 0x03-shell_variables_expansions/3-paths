@@ -1,2 +1,2 @@
-!#/bin/bash
+#!/bin/bash
 echo $PATH |cut -f 2 -d= |tr : "\n"|grep ^/|wc -l
